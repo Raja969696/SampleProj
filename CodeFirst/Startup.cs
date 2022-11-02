@@ -17,7 +17,7 @@ namespace CodeFirst
         }
 
         //Added comment
-        //Added comment from GIT browser
+        //Added comment from GIT browser removed
         public IConfiguration Configuration { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
